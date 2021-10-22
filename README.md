@@ -15,8 +15,8 @@
 		</p>
 		<a href="https://www.google.com"> </a>
 		<br>
-		<img src="https://drive.google.com/file/d/1rkUdM4ou_REC_5RMIZ-lK6Iye1GoIDR3/view?usp=sharing">
-		<img src="https://drive.google.com/file/d/1FePHFTvMv7f3-OW9UYbGyVR2f0uUForY/view?usp=sharing"
+		<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMissouri_Tigers&psig=AOvVaw0B2W55YNOiCVI__PKNGose&ust=1635030421414000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICX4o6R3_MCFQAAAAAdAAAAABAD">
+
 
 <ul>
 	<li>Page</li>
