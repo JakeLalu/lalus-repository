@@ -12,6 +12,7 @@
 		<b>This</b>
 		<em>is where I am going to be putting my paragraph</em>
 		</p>
-		<a> </a>
+		<a href="https://www.google.com"> </a>
+		<br>
+		<img src="http://via.placeholder.com/350x150">
 	</body>
-	
