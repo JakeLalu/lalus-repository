@@ -6,10 +6,12 @@
 		<title>Mid-Term Website Project</title>
 	</head>
 	<body>
-		<h1><b><br>My Website for the Mid-Term project</br></b></h1>
-		<h2><b>This is subtitle</b></h2>
+		<h1>My Website for the Mid-Term project</h1>
+		<h2><u>This is a subtitle</u></h2>
 		<p>
-			<em>This is where I am going to be putting my paragraph</em>
+		<b>This</b>
+		<em>is where I am going to be putting my paragraph</em>
 		</p>
+		<a> </a>
 	</body>
 	
