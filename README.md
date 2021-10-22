@@ -15,8 +15,8 @@
 		</p>
 		<a href="https://www.google.com"> </a>
 		<br>
-		<img src="C:\Users\Lalu\Desktop\yee.jpg">
-		<img src="C:\Users\Lalu\Desktop\1200px-Missouri_Tigers_logo.svg.png"
+		<img src="https://drive.google.com/file/d/1rkUdM4ou_REC_5RMIZ-lK6Iye1GoIDR3/view?usp=sharing">
+		<img src="https://drive.google.com/file/d/1FePHFTvMv7f3-OW9UYbGyVR2f0uUForY/view?usp=sharing"
 
 <ul>
 	<li>Page</li>
