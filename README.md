@@ -15,7 +15,7 @@
 		</p>
 		<a href="https://www.google.com"> </a>
 		<br>
-		<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMissouri_Tigers&psig=AOvVaw0B2W55YNOiCVI__PKNGose&ust=1635030421414000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICX4o6R3_MCFQAAAAAdAAAAABAD">
+		<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Missouri_Tigers_logo.svg/1200px-Missouri_Tigers_logo.svg.png">
 
 
 <ul>
