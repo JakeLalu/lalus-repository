@@ -11,10 +11,12 @@
 		<p>
 		<b>My name is Jake Lalumandier</b>
 		<em>and I have decided to write a bit about myself from the past couple years because this project is rather open ended it seems</em>
+		<br>The second page is going to be about my highschool, the third page is going to be about baseball, the fourth page is going to be about my old college, and the final page is going to be my dog.
 		</p>
 		<a href="https://www.google.com"> </a>
 		<br>
-		<img src="http://via.placeholder.com/350x150">
+		<img src="C:\Users\Lalu\Desktop\yee.jpg">
+		<img src="C:\Users\Lalu\Desktop\1200px-Missouri_Tigers_logo.svg.png"
 
 <ul>
 	<li>Page</li>
