@@ -16,13 +16,13 @@
 		<br>
 		<img src="http://via.placeholder.com/350x150">
 
-		<ul>
-				<li>Page</li>
-					<ul><button onclick="PUT LINK HERE">1</button></ul>
-					<ul><button onclick="PUT LINK HERE">1</button></ul>
-					<ul><button onclick="PUT LINK HERE">1</button></ul>
-					<ul><button onclick="PUT LINK HERE">1</button></ul>
-					<ul><button onclick="PUT LINK HERE">1</button></ul>
-		</ul>
+<ul>
+	<li>Page</li>
+		<ul><button onclick="PUT LINK HERE">1</button></ul>
+		<ul><button onclick="PUT LINK HERE">1</button></ul>
+		<ul><button onclick="PUT LINK HERE">1</button></ul>
+		<ul><button onclick="PUT LINK HERE">1</button></ul>
+		<ul><button onclick="PUT LINK HERE">1</button></ul>
+</ul>
 	</body>
 </html>
