@@ -18,11 +18,11 @@
 
 <ul>
 	<li>Page</li>
-		<ul><button onclick="PUT LINK HERE">ReadMe</button></ul>
-		<ul><button onclick="C:\Users\Lalu\Documents\GitHub\lalus-repository\Page2">2</button></ul>
-		<ul><button onclick="C:\Users\Lalu\Documents\GitHub\lalus-repository\Page3></ul>
-		<ul><button onclick="PUT LINK HERE">4</button></ul>
-		<ul><button onclick="PUT LINK HERE">5</button></ul>
+		<ul><a href="https://github.com/JakeLalu/lalus-repository/blob/main/Page2"target="blank">1</a></ul>
+		<ul>2</ul>
+		<ul>3</ul>
+		<ul>4</ul>
+		<ul>5</ul>
 </ul>
 	</body>
 </html>
