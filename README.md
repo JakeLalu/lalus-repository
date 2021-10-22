@@ -15,11 +15,15 @@
 		<br>
 		<img src="http://via.placeholder.com/350x150">
 
-ul {
-	display: table;
-	margin: 0 auto;
-}
-
+	<style>
+	.myDiv{
+		text-align:center;
+	}
+	.myDiv ul li{
+		display:inline;
+	}
+	</style>
+	<div class="myDiv">
 <ul>
 	<li>Page</li>
 		<ul><a href="https://github.com/JakeLalu/lalus-repository/blob/main/README.md"target="blank">1</a></ul>
