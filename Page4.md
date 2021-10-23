@@ -6,19 +6,12 @@
 		<title>Mid Term</title>
 	</head>
 	<body style="background-color:grey;">
-		<h1>My Website for the Mid-Term project</h1>
-		<h2><u>IT-1000</u></h2>
+		<h2><u>My Old College</u></h2>
+    <img src="https://www.stchas.edu/images/buildings/college-center-940.jpg">
 		<p>
-		<b>My name is Jake Lalumandier</b>
-		<em>and I have decided to write a bit about myself from the past couple years because this project is rather open ended it seems.</em><br>
-		<br>The second page is going to be about my highschool, the third page is going to be about my schools athletic success in 2019, the fourth page is going to be about my old college, and the final page is going to be my dog.
+		I attended St.Charles CC before coming to UM. Originally I went there to play baseball but after a couple of months I realized I didn't enjoy the process after everything that happened with COVID. The sport now became a chore instead of something that I poured my entire time into and decided to quit. After this time, I decided to finish out the Fall and Spring semesters to save money, as I wasn't missing anything at a big university.
 		</p>
 		<br>
-		<img src="https://github.com/JakeLalu/lalus-repository/blob/main/1200px-Missouri_Tigers_logo.svg.png?raw=true">
-
-<!--
-I decided to make the links between the pages a list, hope that was fine
--->
 
 <ul>
 	<li>Page</li>
