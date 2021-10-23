@@ -3,7 +3,6 @@
 	<head>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Mid Term</title>
 	</head>
 	<body style="background-color:grey;">
 		<h2><u>My Dog</u></h2>
