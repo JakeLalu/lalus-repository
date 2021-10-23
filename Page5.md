@@ -8,7 +8,7 @@
 	<body style="background-color:grey;">
 		<h2><u>My Dog</u></h2>
 		<p>
-		pawagwaf
+		<b>This is my dog Bear that is a Chocolate Lab. I didn't know what I wanted to put into this project so this seemed like a safe bet.
 		</p>
 		<br>
 		<img src="https://github.com/JakeLalu/lalus-repository/blob/main/unnamed%20(2).jpg?raw=true">
