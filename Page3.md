@@ -10,7 +10,6 @@
     <p><b>In 2019, DeSmet won state in Baseball, Soccer, and Football.</b></p>
     <br>
     <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1559058650/desmet/mnu2kggvzwgvvnjmvqul/IMG_0617.jpg">
-    <br>
     <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1559431230/desmet/jjho4umvmespizk7yae9/BaseballTeamStateBanner.jpg"><br>
 		<p>
 		First and foremost, this is the state championship team that I was apart of(#16,far right both photos). This was a great memory and experience as the last game of my DeSmet career because of my Senior season getting cancelled.
@@ -27,7 +26,6 @@
 		<p>
 		Football State Champions going undefeated en route to a 35-20 victory over Joplin
 		</p>
-    <br>
     <a href="https://www.archstl.org/de-smet-jesuit-high-school-takes-state-football-title-4742"target="blank">"Spartans come from behind for a 35-20 win over Joplin."</a>
     <br>
     <h4>Being present at all of these events during this year is one of my favorite memories</h4>
