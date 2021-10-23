@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title> Mid Term </title>
+<title>Mid Term</title>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
