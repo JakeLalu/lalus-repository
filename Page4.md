@@ -14,7 +14,7 @@ img {
     <!--
     code block
     -->
-	</head>
+</head>
 	<body style="background-color:grey;">
 		<h2><u>My Old College</u></h2>
     <img src="https://d28htnjz2elwuj.cloudfront.net/wp-content/uploads/2015/04/20125555/st-charles-community-college-feat.jpg" alt="SCC" style="width:50%;">
